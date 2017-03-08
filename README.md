@@ -1,4 +1,4 @@
-<h1>Best Practice Front End Developement</h1>
+<h1>Best Practice Front End Developement</h1> -- rough draft ---
 
 <h2>Responsive Web Design</h2>
 
@@ -69,6 +69,12 @@
  -flux pattern
  
  --- Examples of Typescript coding samples ---
+ 
+ <h3>Unit testing</h3>
+ 
+ <p>All new code should be covered by a unit test. Pull requests will be rejected if unit tests are missing or fail.</p>
+ 
+ --- rough draft ---
  
  
 reference best practice doc:
