@@ -29,7 +29,8 @@
   </ul>
 
 <h2>Javascript</h2>
-  <p></p>
+  <p>Automate processes, testing, building.</p>
+  
  <h3>Build/Bundler tools</h3>
  <ul>
     <li><a href="https://www.npmjs.com/package/fuse-box">FuseBox</a></li>
@@ -38,7 +39,7 @@
  </ul>
  
  <h3>Frameworks/Libraries</h3>
- 
+  <p>current technology stack used in Playster MA</p>
  <ul>
   <li><a href="https://angular.io/">Angular 2</a></li>
   <li><a href="https://angularjs.org/">Angular 1.6</a></li>
@@ -49,9 +50,9 @@
  </ul>
  
  
- <h3>Angular Style Guide<h3>
+ <h3>Angular Style Guide</h3>
  
- <p>Team should be following a styleguide, pull requests should be rejected if they don't meet the style guide or code standards</p>
+ <p>Team should be following a styleguide, pull requests will be rejected if they don't meet the style guide or code standards</p>
  
  <ul>
   <li><a href="https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md">Angular 1.* style guide</a></li>
@@ -67,7 +68,7 @@
  
  -flux pattern
  
- --- Ty
+ --- Examples of Typescript coding samples ---
  
  
 reference best practice doc:
